@@ -23,11 +23,17 @@ Construir os seguintes endpoints:
 
 ## Regras
 
- 1. Linguagens JAVA ou PHP
- 2. Poderá ser feito utilizando qualquer framework
- 3. O código deve ser orientado a objeto
- 4. Deve ser versionado usando o git e disponibilizado no GitHub ou Bitbucket
- 5. Descrever no README do projeto as especificações, tecnologias e demais informações do projeto
+ 1. Linguagens JAVA ou PHP.
+ 2. Poderá ser feito utilizando qualquer framework.
+ 3. O código deve ser orientado a objeto.
+ 4. Deve ser versionado usando o git e disponibilizado no GitHub ou Bitbucket.
+ 5. Descrever no README do projeto as especificações, tecnologias e demais informações do projeto.
+
+## Plus
+
+ 1. Deploy no Heroku.
+ 2. Criar estrutura no banco para salvar as buscas do usuário.
+ 3. Criar um relatório de itens mais pesquisados com base na estrutura criada.
 
 ## O que apreciamos
 
@@ -39,8 +45,6 @@ Construir os seguintes endpoints:
  - Padronização de código;
  - Padrões de projeto;
  - Documentação de código e endpoints.
-
-Caso queira fazer deploy aconselhamos o Heroku.
 
 ## Quem buscamos
 
