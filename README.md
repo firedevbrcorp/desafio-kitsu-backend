@@ -12,7 +12,7 @@ Vamos ao teste!
 
 ## Desafio
 
-Realizar consultas na API `https://kitsu.docs.apiary.io`
+Realizar consultas na API [https://kitsu.docs.apiary.io](https://kitsu.docs.apiary.io)
 
 Construir os seguintes endpoints:
  - Retorno dos animes mais populares;
@@ -57,4 +57,3 @@ Se você se identificou, venha fazer parte do nosso time!
 Qualquer duvida pode entrar em contato com o recrutador.
 
 _Não precisa desenvolver uma interface gráfica, porem é um diferencial._
-
