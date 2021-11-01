@@ -1,4 +1,4 @@
-# Desafio Técnico - Firedev IT
+# Desafio Kitsu - Firedev IT
 
 Olá Dev! Tudo bem?
 
