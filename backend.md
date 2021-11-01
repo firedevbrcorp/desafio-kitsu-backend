@@ -35,7 +35,7 @@ Construir os seguintes endpoints:
  2. Criar estrutura no banco para salvar as buscas do usuário.
  3. Criar um relatório de itens mais pesquisados com base na estrutura criada.
 
-## O que apreciamos
+## O que apreciamos?
 
  - Organização;
  - Simplicidade;
@@ -46,7 +46,7 @@ Construir os seguintes endpoints:
  - Padrões de projeto;
  - Documentação de código e endpoints.
 
-## Quem buscamos
+## Quem buscamos?
 
 Queremos uma pessoa que goste do que faz, trabalhe em equipe e tenha vontade de inovar, buscando sempre atualização e soluções inovadoras.
 
